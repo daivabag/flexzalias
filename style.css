@@ -1,0 +1,61 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: white;
+    margin: 2px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+header {
+    background-color: whitesmoke ;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+
+}
+
+.pirmasK {
+    width: 27%;
+    height: 600px;
+    flex-direction: column;
+}
+.nav {
+    background-color: lightyellow;
+    height: 50%;
+    width: 90%;
+    text-align: center;
+
+}
+
+.ads {
+    background-color: antiquewhite  ;
+    height: 50%;
+    margin-top: 10px;
+    width: 90%;
+    text-align: center;
+}
+
+.antrasK {
+    width: 73%;
+    height: 600px;
+}
+
+article {
+
+    height: 104%;
+    width: 100%;
+    background-color: snow;
+    text-align: center;
+}
+
+footer {
+    background-color: wheat;
+    height: 30%;
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+
